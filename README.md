@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
 
--
+
 🧪 **Chemistry Maven Turned Data Enthusiast:**
 With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data. 
 
