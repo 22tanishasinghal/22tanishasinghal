@@ -1,4 +1,5 @@
-### Hi there Link[👋](Assets/Hi.gif) I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
+### Hi there ![Hi](https://github.com/22tanishasinghal/22tanishasinghal/assets/143715423/5a330eb4-2b9b-4ccd-9fe9-8273c2b9b81a)
+👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
 
 
 🧪 **Chemistry Maven Turned Data Enthusiast:**
