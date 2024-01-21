@@ -2,7 +2,7 @@
 
 
 🧪 **Chemistry Maven Turned Data Enthusiast:**
-With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data. 
+With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data.
 
 
 📊 **Mastering Data Alchemy:**
