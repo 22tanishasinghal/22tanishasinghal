@@ -1,11 +1,13 @@
 ### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
 
-
+-
 🧪 **Chemistry Maven Turned Data Enthusiast:**
-With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data. My analytical mindset honed in the laboratory now thrives in the realm of data analysis.
+With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data. 
+
 
 📊 **Mastering Data Alchemy:**
-From titrations to Python scripts, I've discovered the power of transforming raw data into actionable insights. My GitHub showcases a fusion of my scientific roots and newfound passion for data analytics.
+From titrations to Python scripts, I've discovered the power of transforming raw data into actionable insights.
+
 
 🚀 **Projects Beyond Beakers:**
 Explore my projects covering exploratory data analysis, data cleaning using tools like Python and SQL. I'm on a mission to unveil the stories hidden in the data universe.
