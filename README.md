@@ -1,6 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
 
-- 🌱 I’m currently learning SQL, Python, Tableau
+
+🧪 **Chemistry Maven Turned Data Enthusiast:**
+With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data. My analytical mindset honed in the laboratory now thrives in the realm of data analysis.
+
+📊 **Mastering Data Alchemy:**
+From titrations to Python scripts, I've discovered the power of transforming raw data into actionable insights. My GitHub showcases a fusion of my scientific roots and newfound passion for data analytics.
+
+🚀 **Projects Beyond Beakers:**
+Explore my projects covering exploratory data analysis, data cleaning using tools like Python and SQL. I'm on a mission to unveil the stories hidden in the data universe.
+
+👩‍💻 **Tech Alchemist:**
+Proficient in Python, SQL, and data visualization tools, I'm combining my analytical skills with cutting-edge technologies to unravel the mysteries encoded in datasets.
+
+🎓 **Master of Science, Chemistry:**
+I hold a Masters Degree in Chemistry from Indian Institute of Technology but now decoding the language of data with the same fervor that I brought to chemical reactions.
+
+
+I'm have a keen interest in turning raw data into meaningful insights. 
+Feel free to browse through my repositories and connect with me. I'm always open to collaboration and learning from the vibrant GitHub community.
+
+Let's transform data into insights together! 🚀
+
+
+- 🌱 I’m currently learning SQL, Python, Data Visualisation
 - 📫 How to reach me: Link to [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BwKTit8CeTmCwCKZu97yF%2Bw%3D%3D)
 
 <!--
