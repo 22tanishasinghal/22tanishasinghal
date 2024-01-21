@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data! ![img](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true)
+<img src="(https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true)" alt="Alt text" width="300" height="200">
+
 
 
 🧪 **Chemistry Maven Turned Data Enthusiast:**
