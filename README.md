@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
+### Hi there Link[👋](Assets/Hi.gif) I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
 
 
 🧪 **Chemistry Maven Turned Data Enthusiast:**
