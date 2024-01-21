@@ -1,5 +1,4 @@
-### Hi there ![Hi](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F45739-om-engineering-college-oec-junagadh%2Fscholarship&psig=AOvVaw0qcdvI8vppw54MfMqFEh7H&ust=1705947229442000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjEmOyK74MDFQAAAAAdAAAAABAE)
-👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data!
+### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data! ![img](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true)
 
 
 🧪 **Chemistry Maven Turned Data Enthusiast:**
