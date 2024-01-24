@@ -1,19 +1,12 @@
 ### Hi there 👋 I'm Tanisha, a Master's graduate in Chemistry exploring the wonders of data! ![img](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true)
 
-
-🧪 **Chemistry Maven Turned Data Enthusiast:**
-With a solid foundation in the intricacies of molecular structures, I've embarked on a thrilling journey into the world of data.
-
-
-📊 **Mastering Data Alchemy:**
-From titrations to Python scripts, I've discovered the power of transforming raw data into actionable insights.
+👩‍💻 **Tech Alchemist:**
+Proficient in Python, SQL, and data visualization tools, I'm combining my analytical skills with cutting-edge technologies to unravel the mysteries encoded in datasets.
 
 
 🚀 **Projects Beyond Beakers:**
 Explore my projects covering exploratory data analysis, data cleaning using tools like Python and SQL. I'm on a mission to unveil the stories hidden in the data universe.
 
-👩‍💻 **Tech Alchemist:**
-Proficient in Python, SQL, and data visualization tools, I'm combining my analytical skills with cutting-edge technologies to unravel the mysteries encoded in datasets.
 
 🎓 **Master of Science, Chemistry:**
 I hold a Masters Degree in Chemistry from Indian Institute of Technology but now decoding the language of data with the same fervor that I brought to chemical reactions.
